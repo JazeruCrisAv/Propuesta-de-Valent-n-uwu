@@ -146,11 +146,11 @@
     <div class="container">
       <h1>¡Hola mi amor!</h1>
       <p>
-        Este 14 de febrero, quiero que seas mi Valentín.<br>
+        Este 14 de febrero, quiero que seas mi Valentín mi niña.<br>
         Eres lo más especial en mi vida y no puedo imaginar un día sin ti.<br>
         ¿Aceptas ser mi Valentín?<br>
         Con todo mi amor,<br>
-        <strong>[Tu nombre]</strong>
+        <strong>Jahzeel</strong>
       </p>
       <button onclick="mostrarAgradecimiento()">¡Acepto!</button>
     </div>
@@ -160,7 +160,7 @@
   <section id="agradecimiento">
     <div class="container">
       <h1>¡Gracias por aceptar!</h1>
-      <p>Eres el amor de mi vida. ❤️</p>
+      <p>Eres el amor de mi vida Te amo uwu. ❤️</p>
     </div>
     <!-- Corazones animados -->
     <div class="heart" style="top: 10%; left: 20%; animation-delay: 0s;"></div>
